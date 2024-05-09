@@ -1,0 +1,3 @@
+org\insta\databaseconnection\Activator.class
+org\insta\databaseconnection\exception\DatabaseConnectionFailedException.class
+org\insta\databaseconnection\DatabaseConnection.class
